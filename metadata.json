@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Weaver",
+  "description": "An application that uses AI to generate stunning images from your text descriptions. Simply type what you envision, and watch it come to life.",
+  "requestFramePermissions": []
+}
